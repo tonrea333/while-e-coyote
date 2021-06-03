@@ -9,10 +9,6 @@ let growString =  userEntry
 
 //Create look that adds string values together to create max lenght 10.
 
-console.log(userEntry)
 
-while (growString  < userEntry+userEntry+userEntry+userEntry+userEntry+userEntry+userEntry+userEntry+userEntry+userEntry){
-    growString =  growString + userEntry
-console.log(growString)
-}
 
+console.log(userEntry - userEntry)
